@@ -5,7 +5,7 @@ Vous trouverez trois dossiers seuls le dossier "Châtaigne" est vraiment importa
 Vous avez besoin de Châtaigne que vous trouverez à ce lien http://benjamin.kuperberg.fr/chataigne/fr
 
 Châtaigne doit uniquement être installée sur l'ordinateur sous lequel se trouve Abelton, cet ordinateur doit être connecté au réseau Art-Net.
-Pour contrôler Abelton, sur Windows, il vous faut "LoopMIDI" et le configurer en entrée dans Abelton.
+Pour contrôler Abelton, sur Windows, il vous faut "LoopMIDI" (https://www.tobias-erichsen.de/software/loopmidi.html) et le configurer en entrée dans Abelton.
 Vous pouvez soit utiliser Mon projet Abelton Fournit dans le dossier Abelton. Pour avoir directement le mapping.
 
 Vous trouverez un PDF avec la correspondance des canaux par rapport aux fonctions dans Abelton.
